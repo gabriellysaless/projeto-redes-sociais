@@ -25,3 +25,7 @@ a{
     background-color: brown;
     color: white;
 }
+
+a:hover{
+    background-color: rgb(192, 38, 38);
+}
